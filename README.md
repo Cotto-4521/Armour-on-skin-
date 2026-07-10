@@ -7,4 +7,4 @@ repo which have armour for your minecraft skin
 3. make sure your skin's layer is absent
 4. or copy your layer on the skin
 5. now paste the armour file and then trim file on your skin
-6. done 
+6. apply skin and fool your friends 
